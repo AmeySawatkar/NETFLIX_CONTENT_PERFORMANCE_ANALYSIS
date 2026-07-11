@@ -200,7 +200,15 @@ An interactive, executive-style **Power BI dashboard** was built to visually com
 
 ### Dashboard Preview
 
-> *(Add dashboard screenshot here — `Netflix_Content_Analysis_Dashboard.png`)*
+## 📊 Dashboard Preview
+
+---
+
+<p align="center">
+  <img src="Netflix_Content_Analysis_Dashboard.png" alt="Netflix Content Analysis Dashboard" width="100%">
+</p>
+
+---
 
 ---
 
@@ -325,7 +333,7 @@ This project was completed as part of a **Data Analytics Internship** at **Skill
 [![GitHub](https://img.shields.io/badge/GitHub-AmeySawatkar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmeySawatkar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
-*(Add LinkedIn profile here)*
+https://www.linkedin.com/in/amey-sawatkar-123237338/
 
 ---
 
