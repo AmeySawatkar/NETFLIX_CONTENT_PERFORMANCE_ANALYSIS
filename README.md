@@ -20,7 +20,9 @@
 *A complete data analytics workflow transforming raw Netflix content data into actionable business intelligence.*
 
 </div>
+## 🎥 Project Demo
 
+[▶️ Watch the Netflix Content Performance Analysis Dashboard Demo](https://drive.google.com/file/d/1VHfNepV9nl16-_9tTp9-FDkxmSwpJpHh/view?usp=drivesdk)
 ---
 
 ## 📌 Project Overview
